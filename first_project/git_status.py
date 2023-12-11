@@ -1,6 +1,7 @@
 import logging
 logging.debug("this is debug level")
 logging.info("this is info level")
+logging.warning("this is warning level")
 
 
 
