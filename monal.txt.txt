@@ -1,0 +1,7 @@
+addding this monal.txt file
+into git hub
+by git bash.
+steps to follow
+git add monal.txt
+git commit -m "msg"
+git push to origin master
