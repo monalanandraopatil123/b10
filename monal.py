@@ -7,4 +7,6 @@ for i in range(1,11):
 def func_add(a,b):
     print(a+b)
 
-func_add(10,20)        
+func_add(10,20)     
+
+print("hello")
