@@ -11,3 +11,7 @@ func_add(10,20)
 
 definie another function
 
+def func_division(p,q):
+    print(p/q)
+
+func_division(22,2)
